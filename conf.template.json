@@ -1,0 +1,11 @@
+{
+    "login-data":{
+        "username":""
+    },
+    "targets":[
+        
+    ],
+    "update":true,
+    "fetch-comments":true,
+    "delay": 1800
+}
